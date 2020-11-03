@@ -7,4 +7,4 @@ Hello,I am Vikash Kumar
 - 💬 Ask me about Devlopment and Coding problems
 - 📫 How to reach me: kvvik2020@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am crazy of playing games but noob in game.
+- ⚡ Fun fact: When i get frustated i feel too hungry
