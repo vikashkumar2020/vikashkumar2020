@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FullStack Projects in MERN and GO<br>👯 I’m looking to collaborate on Golang and MERN<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Docker, Kubernatives and CI/CD <br>💬 Ask me about Dev and Programming<br>⚡ Fun fact :Make little serious jokes
+🔭 I’m currently working on FullStack Projects in MERN and Golang<br>👯 I’m looking to collaborate on Golang and MERN<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Docker, Kubernatives and CI/CD <br>💬 Ask me about Dev and Programming<br>⚡ Fun fact :Make little serious jokes
 
 
 ## 🌐 Socials:
@@ -11,16 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vikashkumar2020&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikashkumar2020&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar2020&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikashkumar2020&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vikashkumar2020&icon=0&color=0)](https://visitcount.itsvg.in)
 
